@@ -11,6 +11,8 @@ gcc >= 4.8
 
 zlib
 
+Heng Li's kseq.h (included in this repository)
+
 ## Compilation
 
 After clone this respository do the following
